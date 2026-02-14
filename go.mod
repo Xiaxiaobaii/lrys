@@ -1,4 +1,4 @@
-module lrys
+module github.com/Xiaxiaobaii/lrys
 
 go 1.26
 
