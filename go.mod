@@ -4,7 +4,7 @@ go 1.26
 
 require golang.org/x/net v0.27.0
 
-require github.com/Xiaxiaobaii/autotool v1.0.1
+require github.com/Xiaxiaobaii/autotool v1.0.2
 
 require (
 	github.com/google/uuid v1.6.0 // indirect
