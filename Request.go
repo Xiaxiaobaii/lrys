@@ -1,7 +1,7 @@
 package lrys
 
 import (
-	tool "autotool"
+	tool "github.com/Xiaxiaobaii/autotool"
 	"bytes"
 	"encoding/json"
 	"io"
